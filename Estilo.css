@@ -1,40 +1,39 @@
-body{
+body {
     background-image: url(imagem/5097dbaa-82bd-4451-92e8-e9a643e58ef3.jpg);
     background-size: cover;
-background-repeat: no-repeat;
-    
+    background-repeat: no-repeat;
 
-    
-    }
-    
-    body{
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+
+}
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    
-    
-    }
-    
-    
-    
-    
-    
-    img{
-        border: rgb(0, 0, 0)10px solid;
-     
-    }
-    
-    
-    iframe{
-        border-radius: 10px;
-    }
-    
-    h1{
-    
-    
-        color: rgb(0, 0, 0)
-    
-    }
-    
-    p{
-        color: rgb(0, 0, 0);
-    }
+
+
+}
+
+
+
+
+
+img {
+    border: rgb(0, 0, 0)10px solid;
+
+}
+
+
+iframe {
+    border-radius: 10px;
+}
+
+h1 {
+
+
+    color: rgb(0, 0, 0)
+}
+
+p {
+    color: rgb(0, 0, 0);
+}
